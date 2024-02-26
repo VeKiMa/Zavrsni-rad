@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "Webtrgovina.Controllers.KupacController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Kupac",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.KupacController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Kupac",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kupac",
+        "Type": "Webtrgovina.Models.Kupac",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.KupacController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Kupac/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "kupac",
+        "Type": "Webtrgovina.Models.Kupac",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.KupacController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Kupac/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Proizvod",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Proizvod",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "proizvod",
+        "Type": "Webtrgovina.Models.Proizvod",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Proizvod/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "proizvod",
+        "Type": "Webtrgovina.Models.Proizvod",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Proizvod/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

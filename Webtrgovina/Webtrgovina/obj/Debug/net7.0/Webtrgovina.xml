@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Webtrgovina</name>
+    </assembly>
+    <members>
+        <member name="T:Webtrgovina.Controllers.KupacController">
+            <summary>
+            Namjenjeno za CRUD operacije nad entitetom osoba u bazi
+            </summary>
+        </member>
+        <member name="F:Webtrgovina.Controllers.KupacController._context">
+            <summary>
+            Kontest za rad s bazom koji će biti postavljen s pomoću Dependecy Injection-om
+            </summary>
+        </member>
+        <member name="M:Webtrgovina.Controllers.KupacController.#ctor(Webtrgovina.Data.WebtrgovinaContext)">
+            <summary>
+            Konstruktor klase koja prima Webtrgovina kontext
+            pomoću DI principa
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Webtrgovina.Controllers.KupacController.Get">
+            <summary>
+            Dohvaća sve kupce iz baze
+            </summary>
+            <remarks>
+            Primjer upita
+            
+               GET api/v1/Kupac
+               
+            </remarks>
+            <returns>Kupce u bazi</returns>
+            <response code="200">Sve OK, ako nema podataka content-length: 0 </response>
+            <response code="400">Zahtjev nije valjan</response>
+            <response code="503">Baza na koju se spajam nije dostupna</response>
+        </member>
+        <member name="M:Webtrgovina.Controllers.KupacController.Post(Webtrgovina.Models.Kupac)">
+            <summary>
+            Dodaje novog kupca u bazu
+            </summary>
+            <remarks>
+                POST api/v1/Kupac
+                {naziv: "Primjer naziva"}
+            </remarks>
+            <param name="kupac">Kupac za unijeti u JSON formatu</param>
+            <response code="201">Kreirano</response>
+            <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+            <response code="503">Baza nedostupna iz razno raznih razloga</response> 
+            <returns>Kupac s šifrom koju je dala baza</returns>
+        </member>
+        <member name="M:Webtrgovina.Controllers.KupacController.Put(System.Int32,Webtrgovina.Models.Kupac)">
+             <summary>
+             Mijenja podatke postojeće Kupca u bazi
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                PUT api/v1/kupac/1
+            
+             {
+              "sifra": 0,
+              "Ime": "Novo ime",
+              "Prezime": "Novo prezime",
+              "Email": "Novi Email",
+              "Adresa": "Nova adresa",
+              "Telefon":"Novi broj telefona"
+             }
+            
+             </remarks>
+             <param name="sifra">Šifra kupca koji se mijenja</param>  
+             <param name="kupac">Kupac za unijeti u JSON formatu</param>  
+             <returns>Svi poslani podaci od kupca koji su spremljeni u bazi</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi kupca kojeu želimo promijeniti</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Baza nedostupna</response> 
+        </member>
+        <member name="M:Webtrgovina.Controllers.KupacController.Delete(System.Int32)">
+             <summary>
+             Briše kupca iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                DELETE api/v1/kupac/1
+                
+             </remarks>
+             <param name="sifra">Šifra kupca koja se briše</param>  
+             <returns>Odgovor da li je obrisano ili ne</returns>
+             <response code="200">Sve je u redu, obrisano je u bazi</response>
+             <response code="204">Nema u bazi kupca kojeu želimo obrisati</response>
+             <response code="503">Problem s bazom</response> 
+        </member>
+        <member name="T:Webtrgovina.Controllers.ProizvodController">
+            <summary>
+            Namjenjeno za CRUD operacije nad entitetom proizvod u bazi
+            </summary>
+        </member>
+        <member name="F:Webtrgovina.Controllers.ProizvodController._context">
+            <summary>
+            Kontest za rad s bazom koji će biti postavljen s pomoću Dependecy Injection-om
+            </summary>
+        </member>
+        <member name="M:Webtrgovina.Controllers.ProizvodController.#ctor(Webtrgovina.Data.WebtrgovinaContext)">
+            <summary>
+            Konstruktor klase koja prima Skladiste kontext
+            pomoću DI principa
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:Webtrgovina.Controllers.ProizvodController.Get">
+            <summary>
+            Dohvaća sve proizvode iz baze
+            </summary>
+            <remarks>
+            Primjer upita
+            
+               GET api/v1/Proizvod
+               
+            </remarks>
+            <returns>Proizvodi u bazi</returns>
+            <response code="200">Sve OK, ako nema podataka content-length: 0 </response>
+            <response code="400">Zahtjev nije valjan</response>
+            <response code="503">Baza na koju se spajam nije dostupna</response>
+        </member>
+        <member name="M:Webtrgovina.Controllers.ProizvodController.Post(Webtrgovina.Models.Proizvod)">
+            <summary>
+            Dodaje novi proizvod u bazu
+            </summary>
+            <remarks>
+                POST api/v1/Proizvod
+                {naziv: "Primjer proizvoda"}
+            </remarks>
+            <param name="proizvod">Proizvod za unijeti u JSON formatu</param>
+            <response code="201">Kreirano</response>
+            <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+            <response code="503">Baza nedostupna iz razno raznih razloga</response> 
+            <returns>Smjer s šifrom koju je dala baza</returns>
+        </member>
+        <member name="M:Webtrgovina.Controllers.ProizvodController.Put(System.Int32,Webtrgovina.Models.Proizvod)">
+             <summary>
+             Mijenja podatke postojećeg proizvoda u bazi
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                PUT api/v1/proizvod/1
+            
+             {
+              "sifra": 0,
+              "naziv": "Novi naziv",
+              "vrsta proizvoda": "Nova vrsta proizvpoda",
+              "cijena": 0
+             }
+            
+             </remarks>
+             <param name="sifra">Šifra proizvoda koji se mijenja</param>  
+             <param name="proizvod">Proizvod za unijeti u JSON formatu</param>  
+             <returns>Svi poslani podaci od proizvoda koji su spremljeni u bazi</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi proizvoda kojeg želimo promijeniti</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Baza nedostupna</response> 
+        </member>
+        <member name="M:Webtrgovina.Controllers.ProizvodController.Delete(System.Int32)">
+             <summary>
+             Briše proizvod iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                DELETE api/v1/Proizvod/1
+                
+             </remarks>
+             <param name="sifra">Šifra proizvoda koji se briše</param>  
+             <returns>Odgovor da li je obrisano ili ne</returns>
+             <response code="200">Sve je u redu, obrisano je u bazi</response>
+             <response code="204">Nema u bazi smjera kojeg želimo obrisati</response>
+             <response code="503">Problem s bazom</response> 
+        </member>
+        <member name="T:Webtrgovina.Data.WebtrgovinaContext">
+            <summary>
+            Ovo mi je datoteka gdje ću navoditi datasetove i načine spajanja u bazi
+            </summary>
+        </member>
+        <member name="M:Webtrgovina.Data.WebtrgovinaContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Webtrgovina.Data.WebtrgovinaContext})">
+            <summary>
+            Kostruktor
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="P:Webtrgovina.Data.WebtrgovinaContext.kupci">
+            <summary>
+            Kupci u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Data.WebtrgovinaContext.Proizvodi">
+            <summary>
+            Proizvodi u bazi
+            </summary>
+        </member>
+        <member name="T:Webtrgovina.Models.Entitet">
+            <summary>
+            Ovo je vršna nad klasa koja služi za osnovne atribute
+            tipa sifra, operater, datum unosa, promjene, itd.
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Entitet.Sifra">
+            <summary>
+            Ovo svojstvo mi služi kao primarni ključ u bazi s
+            generiranjem vrijednosti identiti(1,1)
+            </summary>
+        </member>
+        <member name="T:Webtrgovina.Models.Kupac">
+            <summary>
+            Ovo mi je POCO koji je mapiran na bazu
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Kupac.Ime">
+            <summary>
+            Ime u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Kupac.Prezime">
+            <summary>
+            Prezime u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Kupac.Email">
+            <summary>
+            Email u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Kupac.Adresa">
+            <summary>
+            Adresa u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Kupac.Telefon">
+            <summary>
+            Adresa u bazi
+            </summary>
+        </member>
+        <member name="T:Webtrgovina.Models.Proizvod">
+            <summary>
+            Ovo mi je POCO koji je mapiran na bazu
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Proizvod.Naziv">
+            <summary>
+            Naziv u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Proizvod.Vrsta">
+            <summary>
+            Vrsta u bazi
+            </summary>
+        </member>
+        <member name="P:Webtrgovina.Models.Proizvod.Cijena">
+            <summary>
+            Cijena u bazi
+            </summary>
+        </member>
+    </members>
+</doc>
