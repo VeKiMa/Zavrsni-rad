@@ -1,8 +1,8 @@
 import { App } from "../constants"
-// import { httpService } from "./httpService";
+import { httpService } from "./httpService";
 import { httpService, obradiGresku, obradiUspjeh } from "./httpService";
 
-const naziv ='Proizvodi';
+const naziv ='Proizvod';
 
 async function get(){
   return await httpService.get('/' + naziv).then((res)=>{return obradiUspjeh(res);}).catch((e)=>{ return obradiGresku(e);});

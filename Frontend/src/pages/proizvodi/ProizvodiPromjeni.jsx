@@ -7,12 +7,12 @@ import { dohvatiPorukeAlert } from "../../services/httpService";
 
 export default function ProizvodiPromjeni(){
 
-    const navigate = useNavigate();
+    const [Proizvod,setProizvod] = useState({});
     const routeParams = useParams();
-    const [proizvod,setProizvod] = useState({});
+    const navigate = useNavigate();
 
     async function dohvatiProizvod(){
-        const odgovor = await ProizvodService.getBySifra(routeParams.sifra)
+        const odgovor = await ProizvodService.getBySifra(routeParams.sifra,Proizvod);
         if(!odgovor.ok){
             alert(dohvatiPorukeAlert(odgovor.podaci));
             return;
@@ -20,12 +20,10 @@ export default function ProizvodiPromjeni(){
         setProizvod(odgovor.podaci);       
     }
 
-    useEffect(()=>{   
-        dohvatiProizvod();
-    },[]);
     
-    async function promjeniProizvod(proizvod){
-        const odgovor = await ProizvodService.promjeni(routeParams.sifra,proizvod);
+    
+    async function promjeniProizvod(Proizvod){
+        const odgovor = await ProizvodService.promjeni(routeParams.sifra,Proizvod);
         if(odgovor.ok){
           navigate(RoutesNames.PROIZVODI_PREGLED);
         return;        
@@ -33,54 +31,58 @@ export default function ProizvodiPromjeni(){
         alert(dohvatiPorukeAlert(odgovor.podaci));
     }
 
-    
+    useEffect(()=>{   
+        dohvatiProizvod();
+    },[]);
     
     
     async function handleSubmit(e){
         e.preventDefault();
         const podaci = new FormData(e.target);
          
-          const noviProizvod =
-          {
+        promjeniProizvod ({
             naziv: podaci.get('naziv'),
             vrsta: podaci.get('vrsta'),
-            cijena: parseFloat(podaci.get('cijena')),
-          };
-        await promjeniProizvod(noviProizvod);       
+            cijena: parseFloat(podaci.get('cijena'))
+          });
+               
     }
 
     return (
         <Container className="mt-4"> 
            <Form onSubmit={handleSubmit}>
 
-                <Form.Group controlId="naziv">
+                <Form.Group className='mb-3' controlId="naziv">
                     <Form.Label>Naziv</Form.Label>
                     <Form.Control 
                         type="text"
                         name="naziv"
-                        defaultValue={proizvod.naziv}
+                        defaultValue={Proizvod.naziv}
                         maxLength={255}
+                        placeholder="naziv"
                         required
                     />
                 </Form.Group>                
 
-                <Form.Group controlId="vrsta">
+                <Form.Group className='mb-3' controlId="vrsta">
                     <Form.Label>Vrsta</Form.Label>
                     <Form.Control 
                         type="text"
                         name="vrsta"
-                        defaultValue={proizvod.vrsta}
+                        defaultValue={Proizvod.vrsta}
                         maxLength={255}
+                        placeholder="vrsta"
                         required
                     />
                 </Form.Group>
 
-                <Form.Group controlId="cijena">
+                <Form.Group className='mb-3' controlId="cijena">
                     <Form.Label>Cijena</Form.Label>
                     <Form.Control 
                         type="text"
                         name="cijena"
-                        defaultValue={proizvod.cijena}
+                        defaultValue={Proizvod.cijena}
+                        placeholder="cijena"
                         required
                     />
                 </Form.Group>                             

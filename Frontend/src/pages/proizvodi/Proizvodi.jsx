@@ -10,7 +10,7 @@ import { RoutesNames } from "../../constants";
 
 
 export default function Proizvodi(){
-    const [proizvodi,setProizvodi] = useState();
+    const [Proizvodi,setProizvodi] = useState();
     let navigate = useNavigate();
                
     async function dohvatiProizvode(){
@@ -22,10 +22,6 @@ export default function Proizvodi(){
         setProizvodi(odgovor.podaci);
     }
    
-    useEffect(()=>{
-        dohvatiProizvode();
-    },[]);
-    
     
     async function obrisiProizvod(sifra){
         const odgovor = await ProizvodService.obrisi(sifra);
@@ -35,6 +31,9 @@ export default function Proizvodi(){
       }
     }
 
+    useEffect(()=>{
+        dohvatiProizvode();
+    },[]);
     
     return(
         <Container>

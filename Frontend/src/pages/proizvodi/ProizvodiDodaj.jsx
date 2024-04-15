@@ -9,8 +9,8 @@ export default function ProizvodiDodaj(){
     const navigate = useNavigate();
 
 
-    async function dodajProizvod(proizvod){
-        const odgovor = await ProizvodService.dodaj(proizvod);
+    async function dodajProizvod(Proizvod){
+        const odgovor = await ProizvodService.dodaj(Proizvod);
         if(odgovor.ok){
           navigate(RoutesNames.PROIZVODI_PREGLED);
           return
@@ -27,7 +27,7 @@ export default function ProizvodiDodaj(){
         { 
             naziv: podaci.get('naziv'),
             vrsta: podaci.get('vrsta'),
-            cijena: podaci.get('cijena')
+            cijena: parseFloat(podaci.get('cijena'))
         }
         dodajProizvod(); 
     }
