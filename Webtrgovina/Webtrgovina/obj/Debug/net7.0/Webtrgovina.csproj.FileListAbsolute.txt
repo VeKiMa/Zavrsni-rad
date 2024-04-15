@@ -1,147 +1,454 @@
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.sourcelink.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CopyComplete
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
-E:\1 EDUNOVA MATERIJALI\gith\zavrsnirad_skladiste\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgov.FD3FB308.Up2Date
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
-D:\Projekt Jana\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.sourcelink.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgov.FD3FB308.Up2Date
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+C:\Users\Miroslav\Documents\GitHub\UcenjeWP2\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.sourcelink.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgov.FD3FB308.Up2Date
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+D:\Projekt Jana\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CopyComplete
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+E:\2 jana webshop\03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CopyComplete
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+H:\25.03.2024\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.sourcelink.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgov.FD3FB308.Up2Date
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+C:\Users\Polaznik\Documents\GitHub\New folder\Zavrsni-rad\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\appsettings.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.staticwebassets.runtime.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.exe
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.deps.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.runtimeconfig.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Webtrgovina.xml
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.AssemblyReference.cache
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfoInputs.cache
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.AssemblyInfo.cs
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.csproj.CoreCompileInputs.cache
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.sourcelink.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.Webtrgovina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.build.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Webtrgovina.props
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\scopedcss\bundle\Webtrgovina.styles.css
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgov.FD3FB308.Up2Date
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\refint\Webtrgovina.dll
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.xml
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.pdb
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\Webtrgovina.genruntimeconfig.cache
+C:\Users\Miroslav\Documents\GitHub\New folder\Webtrgovina\Webtrgovina\obj\Debug\net7.0\ref\Webtrgovina.dll

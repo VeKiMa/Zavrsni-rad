@@ -1,4 +1,4 @@
-using Webtrgovina.Data;
+ï»¿using Webtrgovina.Data;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
@@ -11,10 +11,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 
-// prilagodba za dokumentaciju, èitati https://medium.com/geekculture/customizing-swagger-in-asp-net-core-5-2c98d03cbe52
+// prilagodba za dokumentaciju, Ã¨itati https://medium.com/geekculture/customizing-swagger-in-asp-net-core-5-2c98d03cbe52
 builder.Services.AddSwaggerGen(sgo =>
 { // sgo je instanca klase SwaggerGenOptions
-  // èitati https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202017/Web%20API%20Best%20Practices.pdf
+  // Ã¨itati https://devintxcontent.blob.core.windows.net/showcontent/Speaker%20Presentations%20Fall%202017/Web%20API%20Best%20Practices.pdf
     var o = new Microsoft.OpenApi.Models.OpenApiInfo()
     {
         Title = "Webtrgovina API",
@@ -27,7 +27,7 @@ builder.Services.AddSwaggerGen(sgo =>
         Description = "Ovo je dokumentacija za Webtrgovina API",
         License = new Microsoft.OpenApi.Models.OpenApiLicense()
         {
-            Name = "Webtrgovina"
+            Name = "Edukacijska licenca"
         }
     };
     sgo.SwaggerDoc("v1", o);
@@ -37,8 +37,8 @@ builder.Services.AddSwaggerGen(sgo =>
     sgo.IncludeXmlComments(xmlPath, includeControllerXmlComments: true);
 
 });
-// Svi se od svuda na sve moguæe naèine mogu spojitina naš API
-// Èitati https://code-maze.com/aspnetcore-webapi-best-practices/
+// Svi se od svuda na sve moguÃ¦e naÃ¨ine mogu spojitina naÅ¡ API
+// ÄŒitati https://code-maze.com/aspnetcore-webapi-best-practices/
 builder.Services.AddCors(opcije =>
 {
     opcije.AddPolicy("CorsPolicy",
@@ -53,7 +53,7 @@ builder.Services.AddCors(opcije =>
 builder.Services.AddDbContext<WebtrgovinaContext>(o =>
     o.UseSqlServer(builder.Configuration.GetConnectionString(name: "WebtrgovinaContext"))
 );
-;
+
 
 var app = builder.Build();
 
@@ -61,19 +61,23 @@ var app = builder.Build();
 //if (app.Environment.IsDevelopment())
 //{
 app.UseSwagger();
-// moguænost generiranja poziva rute u CMD i Powershell
+// moguÃ¦nost generiranja poziva rute u CMD i Powershell
 app.UseSwaggerUI(opcije =>
 {
+    opcije.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
     opcije.ConfigObject.
     AdditionalItems.Add("requestSnippetsEnabled", true);
 });
 //}
+
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseStaticFiles();
+
 app.UseCors("CorsPolicy");
 
 app.UseDefaultFiles();

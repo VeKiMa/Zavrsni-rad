@@ -1,6 +1,6 @@
 ﻿using Webtrgovina.Models;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 namespace Webtrgovina.Data
 {
@@ -20,21 +20,21 @@ namespace Webtrgovina.Data
         }
 
         /// <summary>
-        /// Kupci u bazi
+        /// Narudzbe u bazi
         /// </summary>
-        public DbSet<Kupac> kupci { get; set; }
-
-        /// <summary>
-        /// Proizvodi u bazi
-        /// </summary>
-
+        public DbSet<Narudzba> Narudzbe { get; set; }
         public DbSet<Proizvod> Proizvodi { get; set; }
 
-        ///// <summary>
-        ///// Narudzbe u bazi
-        ///// </summary>
+        public DbSet<Kupac> Kupci { get; set; }
 
-        //public DbSet<Narudzba> Narudzbe { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // implementacija veze 1:n
+            modelBuilder.Entity<Narudzba>().HasOne(g => g.Proizvod);
+            modelBuilder.Entity<Narudzba>().HasOne(g => g.Kupac);
+           
 
-    }  
+        }
+    }
 }
+

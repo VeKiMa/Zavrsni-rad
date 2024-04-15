@@ -1,6 +1,7 @@
 ﻿
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+
 namespace Webtrgovina.Models
 {
     /// <summary>
@@ -23,7 +24,7 @@ namespace Webtrgovina.Models
         /// <summary>
         /// Cijena u bazi
         /// </summary>
-        [Required(ErrorMessage = "Cijena obavezno")]
-        public int? Cijena{ get; set; }
+        [Range(0, 10000, ErrorMessage = "Vrijednost {0} mora biti između {1} i {2}")]
+        public decimal? Cijena{ get; set; }
     }
 }

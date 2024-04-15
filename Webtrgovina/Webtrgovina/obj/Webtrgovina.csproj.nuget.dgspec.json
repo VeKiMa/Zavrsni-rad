@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj": {}
+    "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj": {}
   },
   "projects": {
-    "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj": {
+    "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
+        "projectUniqueName": "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
         "projectName": "Webtrgovina",
-        "projectPath": "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
+        "projectPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
         "packagesPath": "C:\\Users\\Miroslav\\.nuget\\packages\\",
-        "outputPath": "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\obj\\",
+        "outputPath": "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.14, )"

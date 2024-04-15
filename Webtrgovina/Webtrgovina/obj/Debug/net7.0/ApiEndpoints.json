@@ -18,8 +18,24 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "kupac",
-        "Type": "Webtrgovina.Models.Kupac",
+        "Name": "kupacDTO",
+        "Type": "Webtrgovina.Models.KupacDTOInsertUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.KupacController",
+    "Method": "GetBySifra",
+    "RelativePath": "api/v1/Kupac/{sifra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -39,8 +55,8 @@
         "IsRequired": true
       },
       {
-        "Name": "kupac",
-        "Type": "Webtrgovina.Models.Kupac",
+        "Name": "kupacDTO",
+        "Type": "Webtrgovina.Models.KupacDTOInsertUpdate",
         "IsRequired": true
       }
     ],
@@ -50,6 +66,85 @@
     "ContainingType": "Webtrgovina.Controllers.KupacController",
     "Method": "Delete",
     "RelativePath": "api/v1/Kupac/{sifra}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.NarudzbaController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Narudzba",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.NarudzbaController",
+    "Method": "Post",
+    "RelativePath": "api/v1/Narudzba",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Webtrgovina.Models.NarudzbaDTOInsertUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.NarudzbaController",
+    "Method": "GetBySifra",
+    "RelativePath": "api/v1/Narudzba/{sifra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.NarudzbaController",
+    "Method": "Put",
+    "RelativePath": "api/v1/Narudzba/{sifra}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Webtrgovina.Models.NarudzbaDTOInsertUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.NarudzbaController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Narudzba/{sifra}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -81,8 +176,45 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "proizvod",
-        "Type": "Webtrgovina.Models.Proizvod",
+        "Name": "dto",
+        "Type": "Webtrgovina.Models.ProizvodDTOInsertUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "Patch",
+    "RelativePath": "api/v1/Proizvod",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifraProizvod",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "datoteka",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Webtrgovina.Controllers.ProizvodController",
+    "Method": "GetBySifra",
+    "RelativePath": "api/v1/Proizvod/{sifra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sifra",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -102,8 +234,8 @@
         "IsRequired": true
       },
       {
-        "Name": "proizvod",
-        "Type": "Webtrgovina.Models.Proizvod",
+        "Name": "dto",
+        "Type": "Webtrgovina.Models.ProizvodDTOInsertUpdate",
         "IsRequired": true
       }
     ],

@@ -1,8 +1,10 @@
 ﻿using Webtrgovina.Data;
+using Webtrgovina.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Webtrgovina.Models;
 using Microsoft.Data.SqlClient;
-
+using Microsoft.EntityFrameworkCore;
+using System.Text;
 
 namespace Webtrgovina.Controllers
 {
@@ -11,7 +13,7 @@ namespace Webtrgovina.Controllers
     /// </summary>
     [ApiController]
     [Route("api/v1/[controller]")]
-    public class ProizvodController :ControllerBase
+    public class ProizvodController : ControllerBase
     {
         /// <summary>
         /// Kontest za rad s bazom koji će biti postavljen s pomoću Dependecy Injection-om
@@ -50,12 +52,37 @@ namespace Webtrgovina.Controllers
             }
             try
             {
-                var proizvodi = _context.Proizvodi.ToList();
-                if (proizvodi == null || proizvodi.Count == 0)
+                var lista = _context.Proizvodi.ToList();
+                if (lista == null || lista.Count == 0)
                 {
-                    return new EmptyResult();
+                    return BadRequest("Ne postoje proizvodi u bazi");
                 }
-                return new JsonResult(proizvodi);
+                return new JsonResult(lista.MapProizvodReadList());
+            }
+            catch (Exception ex)
+
+            {
+                return StatusCode(StatusCodes.Status503ServiceUnavailable,
+                    ex.Message);
+            }
+        }
+        [HttpGet]
+        [Route("{sifra:int}")]
+        public IActionResult GetBySifra(int sifra)
+        {
+            // kontrola ukoliko upit nije valjan
+            if (!ModelState.IsValid || sifra <= 0)
+            {
+                return BadRequest(ModelState);
+            }
+            try
+            {
+                var p = _context.Proizvodi.Find(sifra);
+                if (p == null)
+                {
+                    return BadRequest("Proizvod s šifrom " + sifra + " ne postoji");
+                }
+                return new JsonResult(p.MapProizvodInsertUpdatedToDTO());
             }
             catch (Exception ex)
             {
@@ -77,19 +104,22 @@ namespace Webtrgovina.Controllers
         /// <response code="503">Baza nedostupna iz razno raznih razloga</response> 
         /// <returns>Smjer s šifrom koju je dala baza</returns>
         [HttpPost]
-        public IActionResult Post(Proizvod proizvod)
+        public IActionResult Post(ProizvodDTOInsertUpdate dto)
         {
-            if (!ModelState.IsValid || proizvod == null)
+            if (!ModelState.IsValid || dto == null)
             {
                 return BadRequest();
             }
             try
             {
-                _context.Proizvodi.Add(proizvod);
+                var entitet = dto.MapProizvodInsertUpdateFromDTO(new Proizvod());
+                _context.Proizvodi.Add(entitet);
                 _context.SaveChanges();
-                return StatusCode(StatusCodes.Status201Created, proizvod);
+                return StatusCode(StatusCodes.Status201Created,
+                    entitet.MapProizvodReadToDTO());
             }
             catch (Exception ex)
+
             {
                 return StatusCode(StatusCodes.Status503ServiceUnavailable,
                     ex.Message);
@@ -123,11 +153,12 @@ namespace Webtrgovina.Controllers
 
         [HttpPut]
         [Route("{sifra:int}")]
-        public IActionResult Put(int sifra, Proizvod proizvod)
+        public IActionResult Put(int sifra, ProizvodDTOInsertUpdate dto
+            )
         {
-            if (sifra <= 0 || !ModelState.IsValid || proizvod == null)
+            if (sifra <= 0 || !ModelState.IsValid || dto == null)
             {
-                return BadRequest();
+                return BadRequest(ModelState);
             }
 
 
@@ -135,25 +166,20 @@ namespace Webtrgovina.Controllers
             {
 
 
-                var proizvodIzBaze = _context.Proizvodi.Find(sifra);
+                var entitetIzBaze = _context.Proizvodi.Find(sifra);
 
-                if (proizvodIzBaze == null)
+                if (entitetIzBaze == null)
                 {
-                    return StatusCode(StatusCodes.Status204NoContent, sifra);
+                    return BadRequest("Ne postoje proizvod s šifrom " + sifra + " u bazi");
                 }
+                var entitet = dto.MapProizvodInsertUpdateFromDTO(entitetIzBaze);
 
 
-                // inače ovo rade mapperi
-                // za sada ručno
-                proizvodIzBaze.Naziv = proizvod.Naziv;
-                proizvodIzBaze.Vrsta = proizvod.Vrsta;
-                proizvodIzBaze.Cijena = proizvod.Cijena;
 
-
-                _context.Proizvodi.Update(proizvodIzBaze);
+                _context.Proizvodi.Update(entitetIzBaze);
                 _context.SaveChanges();
 
-                return StatusCode(StatusCodes.Status200OK, proizvodIzBaze);
+                return StatusCode(StatusCodes.Status200OK, entitetIzBaze.MapProizvodReadToDTO);
             }
             catch (Exception ex)
             {
@@ -189,18 +215,34 @@ namespace Webtrgovina.Controllers
 
             try
             {
-                var proizvodIzBaze = _context.Proizvodi.Find(sifra);
+                var entitetIzBaze = _context.Proizvodi.Find(sifra);
 
-                if (proizvodIzBaze == null)
+                if (entitetIzBaze == null)
                 {
-                    return StatusCode(StatusCodes.Status204NoContent, sifra);
+                    return BadRequest("Ne postoji proizvod s šifrom " + sifra + " u bazi");
+                }
+                var lista = _context.Narudzbe.Include(x => x.Proizvod).Where(x => x.Proizvod.Sifra == sifra).ToList();
+
+                if (lista != null && lista.Count() > 0)
+
+                {
+                    StringBuilder sb = new StringBuilder();
+                    sb.Append("Proizvod se ne može obrisati jer je postavljen u narudžbama: ");
+
+                    foreach (var e in lista)
+                    {
+                        sb.Append(e.Naziv).Append(", ");
+                    }
+
+                    return BadRequest(sb.ToString().Substring(0, sb.ToString().Length - 2));
                 }
 
-                _context.Proizvodi.Remove(proizvodIzBaze);
+
+
+                _context.Proizvodi.Remove(entitetIzBaze);
                 _context.SaveChanges();
 
-                return new JsonResult("{\"poruka\": \"Obrisano\"}"); // ovo nije baš najbolja praksa ali da znake kako i to može
-
+                return Ok("Obrisano");
             }
             catch (Exception ex)
             {
@@ -208,6 +250,40 @@ namespace Webtrgovina.Controllers
                     ex.Message);
             }
 
+        }
+
+        [HttpPatch]
+        public async Task<ActionResult> Patch(int sifraProizvod, IFormFile datoteka)
+        {
+            if (datoteka == null)
+            {
+                return BadRequest("Datoteka nije postavljena");
+            }
+
+            var entitetIzbaze = _context.Proizvodi.Find(sifraProizvod);
+
+            if (entitetIzbaze == null)
+            {
+                return BadRequest("Ne postoji proizvod s šifrom " + sifraProizvod + " u bazi");
+            }
+            try
+            {
+                var ds = Path.DirectorySeparatorChar;
+                string dir = Path.Combine(Directory.GetCurrentDirectory()
+                    + ds + "wwwroot" + ds + "datoteke" + ds + "proizvodi");
+                if (!System.IO.Directory.Exists(dir))
+                {
+                    System.IO.Directory.CreateDirectory(dir);
+                }
+                var putanja = Path.Combine(dir + ds + sifraProizvod + "_" + System.IO.Path.GetExtension(datoteka.FileName));
+                Stream fileStream = new FileStream(putanja, FileMode.Create);
+                await datoteka.CopyToAsync(fileStream);
+                return new JsonResult(new { poruka = "Datoteka pohranjena" });
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status503ServiceUnavailable, e.Message);
+            }
         }
     }
 }

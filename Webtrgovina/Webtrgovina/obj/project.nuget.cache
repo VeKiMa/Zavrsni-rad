@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JXwxjkzriXc9G5qkkbicvH4zZ/+FQO1qlNFkjuanKk/4+hkTXdPEfRyMgY3nRAq0Y/mvZbiVZ9FydYxFH0w6hw==",
+  "dgSpecHash": "FIs6rkYtda+N61Pexa53WI/uWcOoMwxk47Awsjd/1K0q3oRnjCdSI+S7aKWSSeMakxykvD5JDSIgHo/zv+E0/g==",
   "success": true,
-  "projectFilePath": "D:\\Projekt Jana\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
+  "projectFilePath": "C:\\Users\\Miroslav\\Documents\\GitHub\\New folder\\Webtrgovina\\Webtrgovina\\Webtrgovina.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Miroslav\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Miroslav\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Miroslav\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Miroslav\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
